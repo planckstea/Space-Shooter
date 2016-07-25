@@ -1,0 +1,17 @@
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/UnityEngine.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/UnityEditor.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/maliklechekhab/Projet/Unity/Space Shooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/obj/Debug/Assembly-CSharp.dll
+/Users/maliklechekhab/Projet/Unity/Space Shooter/obj/Debug/Assembly-CSharp.dll.mdb
